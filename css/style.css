@@ -1,0 +1,17 @@
+.dropdownscroll
+{
+    max-height: 35vh;
+    overflow-y: scroll;
+}
+.dropdownChild
+{
+    padding-left: 2vw !important;
+}
+.logo
+{
+    height: 25vh !important;
+}
+.item
+{
+    width: 59.1%;
+}
