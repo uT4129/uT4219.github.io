@@ -3,10 +3,6 @@
     max-height: 35vh;
     overflow-y: scroll;
 }
-.dropdownChild
-{
-    padding-left: 2vw !important;
-}
 .logo
 {
     height: 25vh !important;
@@ -14,4 +10,18 @@
 .item
 {
     width: 59.1%;
+}
+@media (min-width: 576px)
+{
+    .dropdownChild
+    {
+        padding-left: 6vw !important;
+    }
+}
+@media (min-width: 992px)
+{
+    .dropdownChild
+    {
+        padding-left: 3vw !important;
+    }
 }
