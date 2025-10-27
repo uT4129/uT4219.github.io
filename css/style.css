@@ -25,3 +25,15 @@
         padding-left: 2vw !important;
     }
 }
+td
+{
+    font-size: small;
+}
+.zdjeciedura
+{
+    width: 22px !important;
+}
+.karta
+{
+    min-height: 100% !important;
+}
