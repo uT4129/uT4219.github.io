@@ -25,7 +25,7 @@
         padding-left: 2vw !important;
     }
 }
-td
+.td-item
 {
     font-size: small;
 }
@@ -36,4 +36,9 @@ td
 .karta
 {
     height: 40vh !important;
+}
+.tekst
+{
+    padding-right: 1.5rem;
+    text-align: justify;
 }
