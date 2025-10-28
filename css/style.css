@@ -42,3 +42,46 @@
     padding-right: 1.5rem;
     text-align: justify;
 }
+/* @keyframes wiadomosci{
+from {left: 100%;}
+to {left: 0%;}                                                 PAMIETAJ!!!!
+}
+
+.wiadomosci>.ralsi{
+  position: fixed;
+  bottom: 0;
+  height: 100px;
+  width: 100px;
+  animation: wiadomosci 15s linear;
+}
+@keyframes palasiewieza {
+  0% { left: 100%; visibility: hidden; }
+  10% { visibility: hidden ; }
+  99.99% { visibility: hidden; }
+  100% { left: 0%; visibility: visible; }
+}
+
+.wiadomosci>.palacesiewieze {
+  position: fixed;
+  bottom: 0;
+  height: 100px;
+  width: 100px;
+  animation: palasiewieza 15s linear;
+} */
+ @font-face {
+  font-family: 'dsr_font'; /* set name */
+  src: url(../assets/OptimusPrinceps.ttf); /* url of the font */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'dsr_font'; /* set name */
+  src: url(../assets/OptimusPrincepsSemiBold.ttf); /* url of the font */
+  font-weight: 600;
+  font-style: normal;
+}
+body
+{
+    font-family: 'dsr_font';
+    letter-spacing: 0.5px !important;
+}
