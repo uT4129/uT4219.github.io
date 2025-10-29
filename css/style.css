@@ -11,6 +11,13 @@
 {
     width: 59.1%;
 }
+@media (min-width: 1px)
+{
+    .dropdownChild
+    {
+        padding-left: 10vw !important;
+    }
+}
 @media (min-width: 576px)
 {
     .dropdownChild
