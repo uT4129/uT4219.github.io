@@ -49,9 +49,9 @@
     padding-right: 1.5rem;
     text-align: justify;
 }
-/* @keyframes wiadomosci{
+ @keyframes wiadomosci{
 from {left: 100%;}
-to {left: 0%;}                                                 PAMIETAJ!!!!
+to {left: 0%;}                                                 
 }
 
 .wiadomosci>.ralsi{
@@ -74,16 +74,16 @@ to {left: 0%;}                                                 PAMIETAJ!!!!
   height: 100px;
   width: 100px;
   animation: palasiewieza 15s linear;
-} */
+} 
  @font-face {
-  font-family: 'dsr_font'; /* set name */
-  src: url(../assets/OptimusPrinceps.ttf); /* url of the font */
+  font-family: 'dsr_font';
+  src: url(../assets/OptimusPrinceps.ttf); 
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'dsr_font'; /* set name */
-  src: url(../assets/OptimusPrincepsSemiBold.ttf); /* url of the font */
+  font-family: 'dsr_font';
+  src: url(../assets/OptimusPrincepsSemiBold.ttf);
   font-weight: 600;
   font-style: normal;
 }
