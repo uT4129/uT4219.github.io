@@ -49,9 +49,9 @@
     padding-right: 1.5rem;
     text-align: justify;
 }
- @keyframes wiadomosci{
+/* @keyframes wiadomosci{
 from {left: 100%;}
-to {left: 0%;}                                                 
+to {left: 0%;}                                                 PAMIETAJ!!!!
 }
 
 .wiadomosci>.ralsi{
@@ -74,10 +74,10 @@ to {left: 0%;}
   height: 100px;
   width: 100px;
   animation: palasiewieza 15s linear;
-} 
- @font-face {
+} */
+@font-face {
   font-family: 'dsr_font';
-  src: url(../assets/OptimusPrinceps.ttf); 
+  src: url(../assets/OptimusPrinceps.ttf);
   font-weight: normal;
   font-style: normal;
 }
@@ -91,4 +91,8 @@ body
 {
     font-family: 'dsr_font';
     letter-spacing: 0.5px !important;
+}
+.tabela
+{
+    vertical-align:middle;
 }
