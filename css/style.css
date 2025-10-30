@@ -51,13 +51,13 @@
 }
 @font-face {
   font-family: 'dsr_font';
-  src: url(../assets/OptimusPrincepsv5.ttf);
+  src: url(../assets/fonts/OptimusPrinceps.ttf);
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'dsr_font';
-  src: url(../assets/OptimusPrincepsSemiBold.ttf);
+  src: url(../assets/fonts/OptimusPrincepsSemiBold.ttf);
   font-weight: 600;
   font-style: normal;
 }
