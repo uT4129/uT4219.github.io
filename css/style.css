@@ -70,3 +70,7 @@ body
 {
     vertical-align:middle;
 }
+body::-webkit-scrollbar
+{
+    display: none;
+}
